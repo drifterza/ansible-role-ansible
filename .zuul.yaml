@@ -9,7 +9,7 @@
     post-run:
       - tests/collect-logs.yaml
     roles:
-      - zuul: openstack/ansible-role-ansible
+      - zuul: windmill/ansible-role-ansible
 
 # Testing for ansible_install_method: pip
 - job:
