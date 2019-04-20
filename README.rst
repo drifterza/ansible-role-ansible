@@ -6,7 +6,7 @@ Ansible role to manage ansible
 
 * License: Apache License, Version 2.0
 * Documentation: https://ansible-role-ansible.readthedocs.org
-* Source: https://git.openstack.org/cgit/openstack/ansible-role-ansible
+* Source: https://opendev.org/windmill/ansible-role-ansible
 * Bugs: https://bugs.launchpad.net/ansible-role-ansible
 
 Description
